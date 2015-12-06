@@ -1,3 +1,3 @@
 # Settings
-Sublime Text 3
-Visual Studio 2015
+- Sublime Text 3
+- Visual Studio 2015
