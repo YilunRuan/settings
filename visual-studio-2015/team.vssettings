@@ -1,0 +1,18 @@
+<UserSettings>
+  <ApplicationIdentity version="14.0"/>
+  <ToolsOptions>
+    <ToolsOptionsCategory name="TextEditor" RegisteredName="TextEditor">
+      <ToolsOptionsSubCategory name="AllLanguages" RegisteredName="AllLanguages" PackageName="Text Management Package">
+        <PropertyValue name="TabSize">2</PropertyValue>
+        <PropertyValue name="InsertTabs">false</PropertyValue>
+        <PropertyValue name="ShowLineNumbers">true</PropertyValue>
+        <PropertyValue name="IndentSize">2</PropertyValue>
+        <PropertyValue name="BraceCompletion">false</PropertyValue>
+      </ToolsOptionsSubCategory>
+    </ToolsOptionsCategory>
+  </ToolsOptions>
+  <Category name="CodeLens" Category="{04DA95C1-B198-491D-BB93-DAD8610F3019}" Package="{E269B994-EF71-4CE0-8BCD-581C217372E8}" RegisteredName="CodeLens" PackageName="Microsoft.VisualStudio.Editor.Implementation.EditorPackage">
+    <PropertyValue name="IsCodeLensEnabled">false</PropertyValue>
+    <CodeLensDisabledProviders/>
+  </Category>
+</UserSettings>
